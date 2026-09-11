@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Jelajah Wisata Indonesia</title>
+</head>
+<body>
+
+    <!-- Header & Navigasi -->
+    <table align="center" width="100%" bgcolor="#00ffff" cellpadding="10">
+        <tr align="center">
+            <td>
+                <h2>JELAJAH WISATA INDONESIA</h2>
+                <p>Temukan Keindahan Alam dan Budaya Indonesia</p>
+            </td>
+        </tr>
+    </table>
+
+    <table align="center" width="100%" bgcolor="#ffebcd" border="1" cellspacing="0" cellpadding="5">
+        <tr align="center">
+            <td width="33%">Beranda</td>
+            <td width="33%">Wisata</td>
+            <td width="33%">Galeri</td>
+        </tr>
+    </table>
+
+    <br>
+
+    <!-- Content Utama -->
+    <table align="center" width="80%">
+        <!-- Section Beranda -->
+        <tr align="center">
+            <td>
+                <h3>🏡 Beranda</h3>
+                <p>Selamat datang di website Jelajah Wisata Indonesia. Website ini berisi informasi mengenai beberapa tempat wisata menarik yang ada di Indonesia.</p>
+                <p>Indonesia memiliki banyak sekali destinasi wisata, mulai dari pegunungan, pantai, laut, hingga wisata budaya.</p>
+                <hr width=1020>
+            </td>
+        </tr>
+
+        <tr align="center">
+            <td>
+                <h3>🌏 Destinasi Wisata</h3>
+                <p>Berikut adalah objek wisata menarik di Jawa Timur</p>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <table colspan="3" align="center" height="150" width="80%">
+        <tr align="center">
+            <td align="left" width="25%">
+                <img src="Bromo-Semeru-Batok-Widodaren.jpg" width="250" height="auto">
+                <h4 align=center><b><i>Gunung Bromo</i></b></h4>
+                <p align=center>Gunung Bromo merupakan salah satu wisata terkenal yang ada di Jawa Timur.</p>
+            </td>
+            <td align="center" width="25%">
+                <img src="kawahijen.jpg" width="250" height="auto">
+                <h4 align=center><b><u>Kawah Ijen</u></b></h4>
+                <p>Kawah Ijen merupakan salah satu wisata terkenal yang berada di Jawa Timur.</p>
+            </td>
+            <td align="right" width="25%">
+              <br>
+                <img src="cobanrondo.jpg" width="250" height="130"><br>
+                <h4 align=center><b><i>Air Terjun Coban Rondo</i></b></h4>
+                <p align=center>Air Terjun Coban Rondo merupakan salah satu tempat wisata terkenal yang berada di Jawa Timur.</p>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+
+    <!-- Section Media & Footer -->
+    <table align="center" width="80%">
+        <tr>
+            <td align="center">
+                <hr size=1 width=100%>
+                <h3>🎵 Musik Nusantara</h3>
+                <p>Silakan dengarkan musik berikut sambil menikmati informasi wisata Indonesia.</p>
+                <audio controls>
+                    <source src="wonderful.mp3" type="audio/mpeg">
+                </audio>
+                <br><br>
+                <hr width=1020>
+                <h3>🎬 Wonderland Indonesia</h3>
+                <p>Silakan melihat video berikut sambil menikmati informasi wisata Indonesia.</p>
+                <video controls>
+                    <source src="vidbromo.mp4" type="video/mp4" width=10000 height=0>
+                </video>
+                <br><br>
+                <hr width=1020>
+                <p><small>Contact Person By Kiarda Fauzian tK.SD.smP.SMk</small></p>
+            </td>
+        </tr>
+    </table>
+
+</body>
+</html>
